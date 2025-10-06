@@ -1,0 +1,217 @@
+{
+  "shree": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Raag Shree by Deborshee Bhattacharya/Raag Shree/Raag Shree.mp3.mp3",
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Raag Marwa & Shree by Omkar Dadarkar/Raag Shree/Raag Shree.mp3.mp3",
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Raag Shree, Lalit Pancham & Bhairavi Thumri by Kaustuv Kanti Ganguli/Raag Shree/Raag Shree.mp3.mp3",
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Subha Chale Sham Dhale by Ajoy Chakrabarty/Raga Shree - Khayal/Raga Shree - Khayal.mp3.mp3",
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Raag Shree by Kaustuv Kanti Ganguli/Raag Shree/Raag Shree.mp3.mp3"
+  ],
+  "mishra kalingada": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Raag Lagan Gandhar & Nirgun Bhajan by Kumar Gandharva/Nirgun Bhajan/Nirgun Bhajan.mp3.mp3"
+  ],
+  "lagan gandhar": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Raag Lagan Gandhar & Nirgun Bhajan by Kumar Gandharva/Raag Lagan Gandhar/Raag Lagan Gandhar.mp3.mp3"
+  ],
+  "dhani": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Raag Kalyan, Bhimpalasi & Dhani by Satyasheel Deshpande/Raag Dhani/Raag Dhani.mp3.mp3",
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Raag Bhairav & Dhani by Kumar Gandharva/Raag Dhani/Raag Dhani.mp3.mp3"
+  ],
+  "bhimpalas": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Raag Kalyan, Bhimpalasi & Dhani by Satyasheel Deshpande/Raag Bhimpalasi/Raag Bhimpalasi.mp3.mp3",
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Raag Bhimpalasi & Multani by Omkar Dadarkar/Raag Bhimpalasi/Raag Bhimpalasi.mp3.mp3"
+  ],
+  "kalyan": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Raag Kalyan, Bhimpalasi & Dhani by Satyasheel Deshpande/Raag Kalyan/Raag Kalyan.mp3.mp3"
+  ],
+  "bhairabi": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Raag Bageshree & Bhairavi Bhajan by Satyasheel Deshpande/Bhairavi Bhajan/Bhairavi Bhajan.mp3.mp3",
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Raag Shree, Lalit Pancham & Bhairavi Thumri by Kaustuv Kanti Ganguli/Bhairavi Thumri/Bhairavi Thumri.mp3.mp3",
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Raag Bhatiyar & Bhairavi Thumri by Kaustuv Kanti Ganguli/Bhairavi Thumri/Bhairavi Thumri.mp3.mp3",
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/New Signature by Brajeshwar Mukherjee/Irani Bhairavi Thumri/Irani Bhairavi Thumri.mp3.mp3",
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Raag Bihag & Bhairavi Dadra by Omkar Dadarkar/Bhairavi Dadra/Bhairavi Dadra.mp3.mp3"
+  ],
+  "bageshree": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Raag Bageshree & Bhairavi Bhajan by Satyasheel Deshpande/Raag Bageshree/Raag Bageshree.mp3.mp3"
+  ],
+  "kedar": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Raag Kedar & Jog by Ajoy Chakrabarty/Raag Kedar/Raag Kedar.mp3.mp3"
+  ],
+  "jog": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Raag Kedar & Jog by Ajoy Chakrabarty/Raag Jog/Raag Jog.mp3.mp3",
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Raag Jog & Kirwani Bhajan by Kaustuv Kanti Ganguli/Raag Jog/Raag Jog.mp3.mp3",
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Raag Jog & Hameer by Brajeshwar Mukherjee/Raag Jog/Raag Jog.mp3.mp3"
+  ],
+  "lalat": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Hindustani Alaps by Kaustuv Kanti Ganguli/Raag Lalit/Raag Lalit.mp3.mp3",
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Raag Lalit & Bibhas by Omkar Dadarkar/Raag Lalit/Raag Lalit.mp3.mp3",
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Subha Chale Sham Dhale by Ajoy Chakrabarty/Raga Lalit - Khayal/Raga Lalit - Khayal.mp3.mp3"
+  ],
+  "marwa": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Hindustani Alaps by Kaustuv Kanti Ganguli/Raag Marwa/Raag Marwa.mp3.mp3",
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Raag Marwa & Shree by Omkar Dadarkar/Raag Marwa/Raag Marwa.mp3.mp3",
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Raag Marwa & Hameer by Sameehan Kashalkar/Raag Marwa/Raag Marwa.mp3.mp3"
+  ],
+  "yaman kalyan": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Hindustani Alaps by Kaustuv Kanti Ganguli/Raag Yaman/Raag Yaman.mp3.mp3",
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Raag Bahar, Gaud Malhar & Yaman by Omkar Dadarkar/Raag Yaman/Raag Yaman.mp3.mp3"
+  ],
+  "bilaskhani todi": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Hindustani Alaps by Kaustuv Kanti Ganguli/Raag Bilaskhani Todi/Raag Bilaskhani Todi.mp3.mp3",
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Geetinandan : Part-3 by Ajoy Chakrabarty/Bilaskhani Todi/Bilaskhani Todi.mp3.mp3"
+  ],
+  "madhukauns": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Hindustani Alaps by Kaustuv Kanti Ganguli/Raag Madhukauns/Raag Madhukauns.mp3.mp3"
+  ],
+  "des": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Hindustani Alaps by Kaustuv Kanti Ganguli/Raag Desh/Raag Desh.mp3.mp3"
+  ],
+  "puriya dhanashree": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Hindustani Alaps by Kaustuv Kanti Ganguli/Raag Puriya Dhanashree/Raag Puriya Dhanashree.mp3.mp3"
+  ],
+  "miya malhar": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Hindustani Alaps by Kaustuv Kanti Ganguli/Raag Miyan Malhar/Raag Miyan Malhar.mp3.mp3",
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Raag Mian Malhar & Ramdasi Malhar by Deborshee Bhattacharya/Raag Mian Malhar/Raag Mian Malhar.mp3.mp3",
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Raag Mian Malhar & Ramdasi Malhar by Satyasheel Deshpande/Raag Mian Malhar/Raag Mian Malhar.mp3.mp3"
+  ],
+  "bhairav": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Raag Bhairav & Dhani by Kumar Gandharva/Raag Bhairav/Raag Bhairav.mp3.mp3"
+  ],
+  "abhogi": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Raag Abhogi, Rageshree & Khamaj by Ajoy Chakrabarty/Raag Abhogi/Raag Abhogi.mp3.mp3",
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Raag Abhogi & Megh by Anol Chatterjee/Raag Abhogi/Raag Abhogi.mp3.mp3"
+  ],
+  "khamaj": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Raag Abhogi, Rageshree & Khamaj by Ajoy Chakrabarty/Raag Khamaj/Raag Khamaj.mp3.mp3"
+  ],
+  "rageshri": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Raag Abhogi, Rageshree & Khamaj by Ajoy Chakrabarty/Raag Rageshri/Raag Rageshri.mp3.mp3",
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Geetinandan : Part-3 by Ajoy Chakrabarty/Raageshree/Raageshree.mp3.mp3"
+  ],
+  "ramdasi malhar": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Raag Mian Malhar & Ramdasi Malhar by Deborshee Bhattacharya/Raag Ramdasi Malhar/Raag Ramdasi Malhar.mp3.mp3",
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Raag Mian Malhar & Ramdasi Malhar by Satyasheel Deshpande/Raag Ramdasi Malhar/Raag Ramdasi Malhar.mp3.mp3"
+  ],
+  "bihag": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Raag Bihag by Deborshee Bhattacharya/Raag Bihag/Raag Bihag.mp3.mp3",
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Raag Bihag & Bhairavi Dadra by Omkar Dadarkar/Raag Bihag/Raag Bihag.mp3.mp3"
+  ],
+  "bahar": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Raag Bahar, Gaud Malhar & Yaman by Omkar Dadarkar/Raag Bahar/Raag Bahar.mp3.mp3"
+  ],
+  "gaud malhar": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Raag Bahar, Gaud Malhar & Yaman by Omkar Dadarkar/Raag Gaud Malhar/Raag Gaud Malhar.mp3.mp3"
+  ],
+  "bibhas": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Raag Lalit & Bibhas by Omkar Dadarkar/Raag Bibhas/Raag Bibhas.mp3.mp3"
+  ],
+  "lalit pancham": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Raag Shree, Lalit Pancham & Bhairavi Thumri by Kaustuv Kanti Ganguli/Raag Lalit Pancham/Raag Lalit Pancham.mp3.mp3"
+  ],
+  "multani": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Raag Bhimpalasi & Multani by Omkar Dadarkar/Raag Multani/Raag Multani.mp3.mp3",
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Geetinandan : Part-3 by Ajoy Chakrabarty/Multani/Multani.mp3.mp3"
+  ],
+  "kirwani": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Raag Jog & Kirwani Bhajan by Kaustuv Kanti Ganguli/Kirwani Bhajan/Kirwani Bhajan.mp3.mp3"
+  ],
+  "bhatiyar": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Raag Bhatiyar & Bhairavi Thumri by Kaustuv Kanti Ganguli/Raag Bhatiyar/Raag Bhatiyar.mp3.mp3"
+  ],
+  "megh": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Raag Abhogi & Megh by Anol Chatterjee/Raag Megh/Raag Megh.mp3.mp3"
+  ],
+  "bairagi": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/New Signature by Brajeshwar Mukherjee/Raag Bairagi/Raag Bairagi.mp3.mp3",
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Geetinandan : Part-3 by Ajoy Chakrabarty/Bairagi/Bairagi.mp3.mp3"
+  ],
+  "saraswati": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/New Signature by Brajeshwar Mukherjee/Raag Saraswati/Raag Saraswati.mp3.mp3"
+  ],
+  "todi": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Raag Todi by Kumar Gandharva/Raag Todi/Raag Todi.mp3.mp3",
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Geetinandan : Part-3 by Ajoy Chakrabarty/Todi/Todi.mp3.mp3",
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Raag Ahir Bhairon & Todi by Omkar Dadarkar/Raag Todi/Raag Todi.mp3.mp3"
+  ],
+  "chandrakauns": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Raag Malkauns, Chandrakauns & Majh Khamaj Thumri by Satyasheel Deshpande/Raag Chandrakauns/Raag Chandrakauns.mp3.mp3"
+  ],
+  "maajh khamaj": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Raag Malkauns, Chandrakauns & Majh Khamaj Thumri by Satyasheel Deshpande/Majh Khamaj Thumri/Majh Khamaj Thumri.mp3.mp3"
+  ],
+  "malkauns": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Raag Malkauns, Chandrakauns & Majh Khamaj Thumri by Satyasheel Deshpande/Raag Malkauns/Raag Malkauns.mp3.mp3",
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Geetinandan : Part-3 by Ajoy Chakrabarty/Malkauns/Malkauns.mp3.mp3"
+  ],
+  "hameer": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Raag Jog & Hameer by Brajeshwar Mukherjee/Raag Hameer/Raag Hameer.mp3.mp3",
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Raag Marwa & Hameer by Sameehan Kashalkar/Raag Hameer/Raag Hameer.mp3.mp3"
+  ],
+  "nat bhairav": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Geetinandan : Part-3 by Ajoy Chakrabarty/Nat Bhairon/Nat Bhairon.mp3.mp3"
+  ],
+  "ahir bhairav": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Geetinandan : Part-3 by Ajoy Chakrabarty/Aahir Bhairon/Aahir Bhairon.mp3.mp3",
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Raag Ahir Bhairon & Todi by Omkar Dadarkar/Raag Ahir Bhairon/Raag Ahir Bhairon.mp3.mp3"
+  ],
+  "shuddh sarang": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Geetinandan : Part-3 by Ajoy Chakrabarty/Sudh Sarang/Sudh Sarang.mp3.mp3"
+  ],
+  "shuddha kalyan": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Geetinandan : Part-3 by Ajoy Chakrabarty/Sudh Kalyan/Sudh Kalyan.mp3.mp3"
+  ],
+  "marubihag": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Geetinandan : Part-3 by Ajoy Chakrabarty/Maru Bihag/Maru Bihag.mp3.mp3"
+  ],
+  "kalavati": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Geetinandan : Part-3 by Ajoy Chakrabarty/Kalavati/Kalavati.mp3.mp3"
+  ],
+  "khat": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Anaahata by Milind Malshe/Raag Khat Todi/Raag Khat Todi.mp3.mp3"
+  ],
+  "gauri": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Anaahata by Milind Malshe/Raag Ramgauri & Gauri/Raag Ramgauri & Gauri.mp3.mp3",
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Anaahata by Milind Malshe/Raag Lalita Gauri/Raag Lalita Gauri.mp3.mp3"
+  ],
+  "dagori": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Anaahata by Milind Malshe/Raag Dagori_Deepki/Raag Dagori_Deepki.mp3.mp3"
+  ],
+  "sohini": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Anaahata by Milind Malshe/Raag Sohani/Raag Sohani.mp3.mp3"
+  ],
+  "triveni gauri": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Anaahata by Milind Malshe/Raag Triveni/Raag Triveni.mp3.mp3"
+  ],
+  "komal rishabh asavari": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Anaahata by Milind Malshe/Raag Komal Rishav Aasavari/Raag Komal Rishav Aasavari.mp3.mp3"
+  ],
+  "suha": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Anaahata by Milind Malshe/Raag Sooha Kanada/Raag Sooha Kanada.mp3.mp3"
+  ],
+  "hindol pancham": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Anaahata by Milind Malshe/Raag Hindol Pancham/Raag Hindol Pancham.mp3.mp3"
+  ],
+  "basanti kedar": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Anaahata by Milind Malshe/Raag Basanti Kedar/Raag Basanti Kedar.mp3.mp3"
+  ],
+  "nat kamod": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Anaahata by Milind Malshe/Raag Nat Kamod/Raag Nat Kamod.mp3.mp3"
+  ],
+  "jogia": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Anaahata by Milind Malshe/Raag Jogiya/Raag Jogiya.mp3.mp3"
+  ],
+  "jait kalyan": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Anaahata by Milind Malshe/Raag Jait Kalyan/Raag Jait Kalyan.mp3.mp3"
+  ],
+  "khokar": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Anaahata by Milind Malshe/Raag Khokar/Raag Khokar.mp3.mp3"
+  ],
+  "mishra piloo": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Subha Chale Sham Dhale by Ajoy Chakrabarty/Thumri in Piloo/Thumri in Piloo.mp3.mp3"
+  ],
+  "bhoop": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Raag Bhoopali & Gavti by Omkar Dadarkar/Raag Bhoopali/Raag Bhoopali.mp3.mp3"
+  ],
+  "gawti": [
+    "/home/ganesh/fubar/music_agent_v1/genre_db_v1/saraga1.5_hindustani/Raag Bhoopali & Gavti by Omkar Dadarkar/Raag Gavti/Raag Gavti.mp3.mp3"
+  ]
+}

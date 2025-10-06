@@ -1,0 +1,26 @@
+# Environment
+.env
+*.env
+
+# Dataset (too large for git)
+genre_db_v1/saraga_hindustani/
+*.mp3
+*.wav
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Generated files
+layer1_raag_foundation.wav
+generated_layer2.wav
+generation_status.json

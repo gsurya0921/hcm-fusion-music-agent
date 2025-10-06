@@ -1,0 +1,22 @@
+# Core dependencies
+anthropic>=0.18.0
+gradio>=4.0.0
+python-dotenv>=1.0.0
+
+# MCP
+mcp>=0.9.0
+
+# Audio processing
+librosa>=0.10.0
+soundfile>=0.12.0
+audiocraft>=1.3.0
+
+# PyTorch (install based on your CUDA version)
+torch>=2.0.0
+torchaudio>=2.0.0
+
+# Dataset
+mirdata>=0.3.8
+
+# Utilities
+numpy>=1.24.0
