@@ -7,6 +7,8 @@
 
 An AI-powered music generation system that creates fusion music by blending authentic Hindustani classical raaga patterns with modern instruments and styles using Claude AI and MusicGen Melody.
 
+"The goal is not to replace musicians, but to give them new tools for exploring the infinite space between tradition and innovation."
+
 > **🚧 Active Development**: Currently upgrading from MusicGen Melody to ACE-STEP for 15× faster generation (4 minutes in 20 seconds) and superior musical coherence. See [Future Work](#future-work) for roadmap.
 
 ---
